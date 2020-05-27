@@ -5,7 +5,7 @@ const plugins = require('./config/plugins/')
 
 module.exports = {
   // dest: 'gb-pages',//打包目录
-  base: '/chenxi/',
+  // base: '/chenxi/',
   title: "ChenXI",
   description: '夏至落幕，晨曦来临。',
   head: [
