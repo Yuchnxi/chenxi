@@ -43,7 +43,7 @@ sticky: 1
 
 - 国内访问：[https://zpj80231.gitee.io/znote/](https://zpj80231.gitee.io/znote/) 速度加载会快一点
 
-![](/znote/vuepress/znote.png)
+![](/vuepress/znote.png)
 
 ## 项目介绍
 

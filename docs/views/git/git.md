@@ -7,11 +7,11 @@ tags:
 - "开发规范"
 - git
 categories:
-- "后端"
+- "Git"
 isShowComments: false
 ---
 
-![](/znote/img/other/git_001.png)
+![](/img/other/git_001.png)
 
 <!-- more -->
 

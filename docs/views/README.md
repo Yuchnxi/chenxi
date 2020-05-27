@@ -16,7 +16,7 @@ isShowComments: true
 
 <div id='category'>
 
-[【分类】](/categories/后端/)
+[【分类】](/categories/前端/)
 
 </div>
 
@@ -28,13 +28,19 @@ isShowComments: true
 
 <div id='fj'>
 
-[【前端】](/views/front-end/js-json.html) | [【后端】](/views/java/ArrayList.html)
+[【前端】](/views/front-end/js-json.html)
 
 </div>
 
 <div id='se'>
 
- [【规范】](/views/specification/ali.html) | [【随笔】](/views/essay/20191109.html)
+ [【规范】](/views/specification/ali.html)
+
+</div>
+
+<div id='se'>
+
+[【随笔】](/views/essay/20191109.html)
 
 </div>
 
